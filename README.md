@@ -1,7 +1,3 @@
-# **GIT COMMANDS CHEAT SHEET**
-
----
-
 ## **1. Cấu hình Git**
 ### Thiết lập thông tin người dùng:
 ```bash
@@ -251,5 +247,3 @@ chmod +x .git/hooks/pre-commit
 ```
 
 ---
-
-**🔥 Đây là danh sách đầy đủ và chi tiết về các lệnh Git quan trọng. Nếu bạn cần hướng dẫn thêm, cứ hỏi tôi nhé! 🚀**
